@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    text-shadow: 2px 2px 0 white, 2px -2px 0 white, -2px 2px 0 white, -2px -2px 0 white;
+    background-image: url('../images/vintage-car-7300881_1280.jpg');
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* Image by <a href="https://pixabay.com/users/yunusemrelca-18466237/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7300881">Yunus Emre Ilıca</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7300881">Pixabay</a> */
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+
+footer{
+    text-align: center;
+}
